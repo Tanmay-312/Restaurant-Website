@@ -4,5 +4,3 @@
 - Implemented responsive template.
 
 👉🏻 [Demo](https://tanmay-312.github.io/Restaurant-Website/)
-
-![Demo](img/demo.gif)
